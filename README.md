@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://previews.123rf.com/images/trueffelpix/trueffelpix1802/trueffelpix180200006/95150923-banner-programming-and-coding-background-vector-illustration-with-icons-and-keywords.jpg)
 <h1 align="center">Hi 👋, I'm Elvis Wangari</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elviswangari&label=Profile%20views&color=0e75b6&style=flat" alt="elviswangari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elviswangari" alt="elviswangari" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/elviso_elfisi" target="blank"><img src="https://img.shields.io/twitter/follow/elviso_elfisi?logo=twitter&style=for-the-badge" alt="elviso_elfisi" /></a> </p>
 
