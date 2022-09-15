@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/elviswangari](https://github.com/elviswangari)
 
-- 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,PHP,MYSQL,PYTHON**
+- 💬 Ask me about **C / HTML / CSS / JAVASCRIPT / PHP / MYSQL / PYTHON**
 
 - 📫 How to reach me **elviswangare@gmail.com**
 
@@ -56,8 +56,9 @@
 
 <hr>
  ## Stats.
+ 
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elviswangari&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=elviswangari&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Elvis Wangari's github stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elviswangari&theme=dark&show_icons=true&locale=en" alt="elviswangari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elviswangari&theme=dark" alt="elviswangari" /></p>
 <br/>
