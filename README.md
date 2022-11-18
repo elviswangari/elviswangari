@@ -14,7 +14,7 @@
 
  <br>
 
-<p align="left"> <a href="https://twitter.com/elviso_elfisi" target="blank"><img src="https://img.shields.io/twitter/follow/elviso_elfisi?logo=twitter&style=for-the-badge" alt="elviso_elfisi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/elviso_elfisi" target="blank"><img src="https://img.shields.io/twitter/follow/elvis_wangari?logo=twitter&style=for-the-badge" alt="elvis_wangari" /></a> </p>
 
 - 🔭 I’m currently working on **ALX Program**
 
