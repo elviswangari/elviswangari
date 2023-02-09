@@ -65,7 +65,7 @@
 <br/>
  <b>Note:</b> The top languages shown here is just a measure of what i have posted here on Github and not my actual skill level
 
-> <a href="https://github.com/elviswangari/github-readme-activity-graph"><img alt="elviswangari' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elviswangari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+><!--- <a href="https://github.com/elviswangari/github-readme-activity-graph"><img alt="elviswangari' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elviswangari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --->
 
 [![Elvis Wangari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elviswangari&bg_color=0D1117&color=FFAC1C&line=FFAC1C&point=FFFFFF&hide_border=true)](https://github.com/elviswangari/github-readme-activity-graph)
 
