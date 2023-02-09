@@ -67,6 +67,6 @@
 
 > <a href="https://github.com/elviswangari/github-readme-activity-graph"><img alt="elviswangari' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elviswangari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Elvis Wangari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elviswangari)](https://github.com/elviswangari/github-readme-activity-graph)
+[![Elvis Wangari's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=elviswangari&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/elviswangari/github-readme-activity-graph)
 
 <br/>
